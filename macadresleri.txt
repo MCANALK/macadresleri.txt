@@ -1,3 +1,3 @@
-50-EB-F6-2B-2xxxx
-50-EB-F6-2B-2C-1aza
-50-EB-F6-2B-2C-1C
+50-EB-F6-2B-2xxxx  "sercan"
+50-EB-F6-2B-2C-1aza  "engin"
+50-EB-F6-2B-2C-1C     "mithat"
