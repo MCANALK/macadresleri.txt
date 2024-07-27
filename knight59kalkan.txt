@@ -1,4 +1,264 @@
-50-EB-F6-2B-2C-1C
-8C-88-4B-66-18-B1
-18-C0-4D-0A-DC-27
-2C-F0-5D-0C-DA-7E
+IF FILE EXISTS : C:\Windows\system1.ini
+LABEL : 0
+IF PIXEL COLOR EQUALS : 23 : 441 : 532802 : 0
+IF PIXEL COLOR EQUALS : 165 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 170 : 65 : 330330 : 0
+LABEL : z
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 170 : 56 : 160 : 0
+GOTO : z
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 190 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 90 : 65 : 133721 : 0
+LABEL : p
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 90 : 56 : 157 : 0
+GOTO : p
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 215 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 80 : 64 : 397194 : 0
+LABEL : m
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 80 : 56 : 157 : 0
+GOTO : m
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 235 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 45 : 65 : 330329 : 0
+LABEL : k
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 45 : 56 : 157 : 0
+GOTO : k
+ENDIF
+ENDIF
+LABEL : 1
+IF PIXEL COLOR EQUALS : 24 : 369 : 4154 : 0
+IF PIXEL COLOR EQUALS : 80 : 65 : 330329 : 0
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+Keyboard : D8 : KeyDown
+DELAY : 10
+Keyboard : D8 : KeyUp
+DELAY : 5
+GOTO : 1
+ENDIF
+IF PIXEL COLOR EQUALS : 80 : 56 : 157 : 0
+GOTO : p
+ENDIF
+ENDIF
+ENDIF
+GOTO : 0
+ENDIF
+abortkey=222;abortkeymod=6;pausekey=186;pausekeymod=6;hideplaybox=1;blockinput=0
